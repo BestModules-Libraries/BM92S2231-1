@@ -2,7 +2,7 @@
 File:             BM92S2231-1.h
 Author:           BEST MODULES CORP.
 Description:      Define classes and required variables
-Version:          V1.0.1   -- 2024-06-04
+Version:          V1.0.1   -- 2025-03-25
 ******************************************************************/
 #ifndef BM92S2231_1_H
 #define BM92S2231_1_H

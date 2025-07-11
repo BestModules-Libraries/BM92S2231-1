@@ -1,5 +1,5 @@
 #######################################
-# Coloring Map For BM92S2231_1 Capacitive Fingerprint Sensor Module
+# Coloring Map For BM92S2231-1
 #######################################
 
 #######################################

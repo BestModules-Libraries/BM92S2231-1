@@ -2,7 +2,7 @@
 File:             BM92S2231-1.cpp
 Author:           BEST MODULES CORP.
 Description:      BM92S2231-1.cpp is the library for controlling the BM92S2231_1 Fingerprint Sensor Module
-Version:          V1.0.1   -- 2025-03-25
+Version:          V1.0.2   -- 2025-04-02
 ******************************************************************/
 #include "BM92S2231-1.h"
 
